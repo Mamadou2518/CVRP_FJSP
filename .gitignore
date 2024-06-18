@@ -1,0 +1,7 @@
+# Ignore the .vscode folder
+.vscode/
+
+# Ignore all __pycache__ folders
+__pycache__/
+
+brouillon.py
